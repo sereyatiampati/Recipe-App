@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Recipe App
+<h2> About The Project</h2>
+<p>This is a web application that allows a user to search for a food recipe. Popular Searches include Soup, Salad, Tacos, Fish, Beef, Salmon Sausage, Pork, Curry, Egg, Chicken, Cake, Cheese, Chocolate, Lamb, Cabbage, Peas, Lentils and so much more.</p>
+<p>[Link to Live Site](https://sereyatiampati.github.io/Recipe-App/)</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Demo</h2>
+<p><img src="readme-images/demo.png" alt="Recipe app demo image" style=""></p>
 
-## Available Scripts
+<h3>Built With</h3>
+Below is a list of all the technologies used to bootstrap this project.
+<ul>
+<li> React</li>
+<li> SCSS</li>
+<li> React Router</li>
+<li> The Meal DB API - (https://www.themealdb.com)</li>
+<li> React icons</li>
+<li> Sass</li>
+<li> Axios</li>
+</ul>
 
-In the project directory, you can run:
+<h2> Get Started</h2>
+Setup and install the project locally by running the steps below:
 
-### `npm start`
+### Installations
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repo to your local machine
+   ```sh
+   git clone https://github.com/sereyatiampati/End-of-Phase-1-Project.git
+   ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Instal JSON Server globally on your machine by running this command on your terminal:
+   ```sh
+      npm install -g json-server
+      ```
 
-### `npm test`
+3 .Run this command on your terminal to get the JSON server running:
+   ```sh
+      json-server --watch db.json
+   ````
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4 . Then, open the `index.html` file on your browser to run the application.
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h3>Get started with searching for a Recipe for your Favourite Meal and enjoy making it for your Family and Friends! Don't forget to leave a comment and give us your feedback about your experience.</h3>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-### `npm run eject`
+## Author
+* **Github Profile** - [sereyatiampati](https://github.com/sereyatiampati)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contact
+Github Project Link: [End of Phase 1 Finished Project](https://github.com/sereyatiampati/End-of-Phase-1-Project.git)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Acknowledgments
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+List below are resources used and were helpful and I would like to give credit to.
 
-## Learn More
+* [Moringa School](https://moringaschool.com/)
+* [BSD 2-Clause "Simplified" License](https://opensource.org/licenses/BSD-2-Clause)
+* [Eloquent JavaScript Book](https://eloquentjavascript.net/)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Friedman's Responsive Web Design Article](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [Bootstrap](https://getbootstrap.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Copyright © 2022. All rights reserved. See License file for more details.
