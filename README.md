@@ -1,5 +1,5 @@
 # Recipe App
-Created By : [Emilly Tiampati]()
+Created By : [Emilly Tiampati](https://www.linkedin.com/in/sereyatiampati/)
 <h2> About The Project</h2>
 <p>This is a web application that allows a user to search for a food recipe. Popular Searches include Mbuzi Choma, Fish, Beef, Salmon, Sausage, Pork, Curry, Egg, Chicken, Cake, Cheese, Chocolate, Lamb, Cabbage, Peas, Lentils and so much more.</p>
 
