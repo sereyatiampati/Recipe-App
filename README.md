@@ -1,7 +1,9 @@
 # Recipe App
+Created By : [Emilly Tiampati]()
 <h2> About The Project</h2>
 <p>This is a web application that allows a user to search for a food recipe. Popular Searches include Mbuzi Choma, Fish, Beef, Salmon, Sausage, Pork, Curry, Egg, Chicken, Cake, Cheese, Chocolate, Lamb, Cabbage, Peas, Lentils and so much more.</p>
-<p>[Link to Live Site](https://sereyatiampati.github.io/Recipe-App/)</p>
+
+[Link to Live App](https://recipe-app-sereyatiampati.vercel.app/)
 
 <h2>Demo</h2>
 <p><img src="readme-images/demo.png" alt="Recipe app demo image" style=""></p>
@@ -41,7 +43,6 @@ Setup and install the project locally by running the steps below:
       npm start
       ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h3>Get started with searching for a Recipe for your Favourite Meal and enjoy making it for your Family and Friends!</h3>
 
@@ -52,9 +53,6 @@ Distributed under the MIT License. See `LICENSE.md` file for more information.
 ## Author
 * **Github Profile** - [sereyatiampati](https://github.com/sereyatiampati)
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
@@ -69,9 +67,6 @@ List below are resources used and were helpful and I would like to give credit t
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [Bootstrap](https://getbootstrap.com/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 Copyright © 2023. All rights reserved. See License file for more details.
