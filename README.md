@@ -1,6 +1,6 @@
 # Recipe App
 <h2> About The Project</h2>
-<p>This is a web application that allows a user to search for a food recipe. Popular Searches include Soup, Salad, Tacos, Fish, Beef, Salmon Sausage, Pork, Curry, Egg, Chicken, Cake, Cheese, Chocolate, Lamb, Cabbage, Peas, Lentils and so much more.</p>
+<p>This is a web application that allows a user to search for a food recipe. Popular Searches include Mbuzi Choma, Fish, Beef, Salmon, Sausage, Pork, Curry, Egg, Chicken, Cake, Cheese, Chocolate, Lamb, Cabbage, Peas, Lentils and so much more.</p>
 <p>[Link to Live Site](https://sereyatiampati.github.io/Recipe-App/)</p>
 
 <h2>Demo</h2>
@@ -25,34 +25,34 @@ Setup and install the project locally by running the steps below:
 
 1. Clone the repo to your local machine
    ```sh
-   git clone https://github.com/sereyatiampati/End-of-Phase-1-Project.git
+   git clone git@github.com:sereyatiampati/Recipe-app.git
    ```
 
-2. Instal JSON Server globally on your machine by running this command on your terminal:
+2. Change Directory
    ```sh
-      npm install -g json-server
+      cd Recipe-app
       ```
-
-3 .Run this command on your terminal to get the JSON server running:
+3. Install the dependencies
    ```sh
-      json-server --watch db.json
-   ````
-
-4 . Then, open the `index.html` file on your browser to run the application.
+      npm install 
+      ```
+4. Run this command on your terminal to get the react app running:
+   ```sh
+      npm start
+      ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h3>Get started with searching for a Recipe for your Favourite Meal and enjoy making it for your Family and Friends! Don't forget to leave a comment and give us your feedback about your experience.</h3>
+<h3>Get started with searching for a Recipe for your Favourite Meal and enjoy making it for your Family and Friends!</h3>
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` file for more information.
 
 ## Author
 * **Github Profile** - [sereyatiampati](https://github.com/sereyatiampati)
 
-## Contact
-Github Project Link: [End of Phase 1 Finished Project](https://github.com/sereyatiampati/End-of-Phase-1-Project.git)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,4 +74,4 @@ List below are resources used and were helpful and I would like to give credit t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-Copyright © 2022. All rights reserved. See License file for more details.
+Copyright © 2023. All rights reserved. See License file for more details.
