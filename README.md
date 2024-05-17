@@ -67,6 +67,7 @@ List below are resources used and were helpful and I would like to give credit t
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [Bootstrap](https://getbootstrap.com/)
-
+## Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/Recipe-app/count.svg" alt ="Loading">
 
 Copyright © 2023. All rights reserved. See License file for more details.
